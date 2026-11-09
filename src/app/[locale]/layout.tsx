@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { NextIntlClientProvider } from "next-intl";
-import { getMessages, getLocale } from "next-intl/server";
+import { getMessages } from "next-intl/server";
 import BurbujaDeIdioma from "@/components/BurbujaDeIdioma";
 
 const geistSans = Geist({
@@ -20,13 +20,23 @@ export const metadata: Metadata = {
     description: "Planting Seeds - Of Hope Nonprofit",
 };
 
+// 1. Genera las rutas estáticas durante el build para en y es
+export function generateStaticParams() {
+    return [{ locale: 'en' }, { locale: 'es' }];
+}
+
 export default async function RootLayout({
                                              children,
+                                             params,
                                          }: {
     children: React.ReactNode;
+    params: Promise<{ locale: string }>;
 }) {
-    const locale = await getLocale();
-    const messages = await getMessages();
+    // 2. Desestructuramos el locale directamente desde los params de la ruta
+    const { locale } = await params;
+
+    // 3. Obtenemos los mensajes pasando el locale directamente
+    const messages = await getMessages({ locale });
 
     return (
         <html lang={locale} suppressHydrationWarning>
@@ -34,7 +44,7 @@ export default async function RootLayout({
             suppressHydrationWarning
             className={`${geistSans.variable} ${geistMono.variable} relative min-h-screen bg-slate-50 antialiased`}
         >
-        <NextIntlClientProvider messages={messages}>
+        <NextIntlClientProvider messages={messages} locale={locale}>
             {children}
             <BurbujaDeIdioma />
         </NextIntlClientProvider>
