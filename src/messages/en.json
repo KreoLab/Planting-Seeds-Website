@@ -1,0 +1,336 @@
+{
+  "localeSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, es {🇪🇸 Español} en {🇬🇧 English} other {Unknown}}"
+  },
+  "buttonLanguage": {
+    "Spanish": "Español",
+    "English": "Inglés"
+  },
+  "Navbar": {
+    "location": "California, USA",
+    "email": "plantingseedsofhopeinc@gmail.com",
+    "volunteer": "Volunteer Access",
+    "home": "Home",
+    "about": "About Us",
+    "mission": "Mission & Vision",
+    "whatWeDo": "What We Do",
+    "values": "Our Values",
+    "howToHelp": "How to Help",
+    "contact": "Contact",
+    "donate": "Donate Now"
+  },
+  "Hero": {
+    "slides": [
+      {
+        "topText": "HOPE FOR THOSE AWAITING A HELPING HAND",
+        "titlePart1": "SOWING SEEDS OF",
+        "titleHighlight": "HOPE",
+        "description": "so we can watch every life bloom, regardless of their story or circumstance. We walk alongside and empower families across California through nourishing food distributions, dignity support kits, emotional care, and sustainable self-sufficiency training."
+      },
+      {
+        "topText": "AUTONOMY, LIVELIHOODS, AND RESILIENCE",
+        "titlePart1": "EDUCATION &",
+        "titleHighlight": "AUTONOMY",
+        "description": "Workshops and micro-tools to transform dependency into lasting self-sufficiency. Sowing practical skills and professional foundations so families can attain stable, enduring independence."
+      },
+      {
+        "topText": "LOVE IN ACTION FOR VULNERABLE COMMUNITIES",
+        "titlePart1": "NOURISHMENT &",
+        "titleHighlight": "FUTURE",
+        "description": "Reaching where need is greatest with nutritious pantries and dignified support. Every contribution translates into fresh food, hygiene essentials, and direct relief for hundreds of individuals at risk."
+      }
+    ],
+    "causes": [
+      {
+        "badge": "ACTIVE CAUSE",
+        "titlePart1": "SUPPORT FOR NOURISHING MEALS & FAMILY",
+        "titleHighlight": "EDUCATION",
+        "raised": "$48,500",
+        "goal": "$60,000",
+        "percentage": "81%"
+      },
+      {
+        "badge": "ACTIVE CAUSE",
+        "titlePart1": "VOCATIONAL WORKSHOPS & ENTREPRENEURSHIP",
+        "titleHighlight": "FOR MOTHERS",
+        "raised": "$14,200",
+        "goal": "$18,000",
+        "percentage": "79%"
+      },
+      {
+        "badge": "ACTIVE CAUSE",
+        "titlePart1": "SCHOOL ESSENTIALS & CHILD NUTRITION",
+        "titleHighlight": "FOR CALIFORNIA",
+        "raised": "$21,400",
+        "goal": "$28,000",
+        "percentage": "76%"
+      }
+    ],
+    "donateButton": "DONATE NOW"
+  },
+  "Conteos": {
+    "meals": "MEALS & PANTRY BASKETS DELIVERED",
+    "workshops": "WORKSHOPS & SKILLS TRAININGS",
+    "volunteers": "DEDICATED VOLUNTEERS",
+    "transparency": "TRANSPARENCY & DIRECT DELIVERY"
+  },
+  "NuestroObjetivo": {
+    "corePurpose": "OUR CORE PURPOSE",
+    "mainTitle": "OUR MISSION & IDENTITY",
+    "missionPart": "MISSION",
+    "restTitle": "OUR & IDENTITY",
+    "description": "Planting Seeds of Hope is a California-based nonprofit organization devoted to walking alongside, strengthening, and providing comprehensive support to vulnerable families and communities through acts of practical love, education, emotional care, and holistic development.",
+    "missionTitle": "Our Mission",
+    "missionText": "To accompany and transform the lives of vulnerable families through acts of practical love, comprehensive support, and real opportunities that restore dignity and collective well-being.",
+    "missionLink": "LOVE IN ACTION",
+    "visionTitle": "Our Vision",
+    "visionText": "To build stronger, more compassionate, and opportunity-rich communities where every person has the chance to flourish, transitioning from immediate relief to sustainable development.",
+    "visionLink": "COMMUNITY FLOURISHING",
+    "objectiveTitle": "General Objective",
+    "objectiveText": "To develop comprehensive programs delivering essential aid, entrepreneurship tools, emotional counseling, community health, and rapid disaster response to break cycles of poverty.",
+    "objectiveLink": "SUSTAINABLE IMPACT"
+  },
+  "NuestroVoluntario": {
+    "subtitle": "MEET OUR TEAM TO HELP TODAY",
+    "mainTitleFirst": "BOARD OF",
+    "mainTitleHighlight": "DIRECTORS",
+    "description": "Dedicated leadership and compassionate servants working together to bring relief, dignity, and opportunities to our communities.",
+    "roles": {
+      "director": "DIRECTOR",
+      "secretary": "SECRETARY",
+      "treasurer": "TREASURER",
+      "ceo": "CHIEF EXECUTIVE OFFICER"
+    },
+    "descriptions": {
+      "jesus": "Leading strategic initiatives and community partnerships to expand our outreach and support programs.",
+      "elizabeth": "Coordinating executive communications, documentation, and volunteer administration with dedication and care.",
+      "blanca": "Overseeing financial integrity, resource stewardship, and fund allocations to maximize direct community impact.",
+      "arizaid": "Guiding the holistic vision, spiritual mission, and sustainable growth of Planting Seeds of Hope."
+    }
+  },
+  "TheHelpers": {
+    "subtitle": "OUR DEDICATED VOLUNTEERS",
+    "titlePart1": "OUR",
+    "titleHighlight": "VOLUNTEERS",
+    "description": "Passionate volunteers and community builders working hand in hand to sow hope and support our mission across regions.",
+    "volunteers": [
+      {
+        "role": "PROJECT COORDINATOR",
+        "bio": "Coordinating community projects and outreach initiatives in Mexico with dedication and passion."
+      },
+      {
+        "role": "DIGITAL LINK",
+        "bio": "Managing digital links, communications, and technological support for our expansion efforts."
+      }
+    ]
+  },
+  "DonacionDeAlimentos": {
+    "subtitle": "COMMUNITY DRIVES & CALENDAR",
+    "titlePart1": "GOING FOR",
+    "titleHighlight": "FOOD DONATION",
+    "description": "Join our volunteers, partners, and community members in direct frontline initiatives delivering nutritious produce, warm meals, and vital supplies.",
+    "cards": [
+      {
+        "month": "JAN",
+        "day": "18",
+        "titlePart": "Going for",
+        "titleHighlight": "Food Donation",
+        "date": "January 18, 2026 - 5:00 pm",
+        "location": "Los Angeles, CA",
+        "text": "Join our volunteers and community partners as we prepare and distribute fresh produce, pantry essentials, and dignity kits to families across California.",
+        "buttonText": "BUY TICKET"
+      },
+      {
+        "month": "FEB",
+        "day": "12",
+        "titlePart": "Going for",
+        "titleHighlight": "Food Donation",
+        "date": "February 12, 2026 - 5:00 pm",
+        "location": "San Diego, CA",
+        "text": "Every contribution transforms into fresh food, hygiene essentials, and direct relief for hundreds of individuals and families in need.",
+        "buttonText": "BUY TICKET"
+      }
+    ]
+  },
+  "SiembramosEsperanza": {
+    "subtitle": "HIGH-IMPACT PROGRAMS",
+    "titlePart1": "WE SOW HOPE",
+    "titleHighlight": "WHERE IT IS NEEDED MOST",
+    "description": "Every program is strategically designed to meet urgent essential needs while cultivating lasting capacities for the future.",
+    "programs": [
+      {
+        "badge": "FOOD & ESSENTIALS",
+        "number": "1.",
+        "title": "Essential & Community Aid",
+        "description": "Continuous delivery of nutritious pantry staples, clothing, footwear, hygiene kits, and direct street outreach to those experiencing homelessness.",
+        "progressText": "85% Resources Deployed",
+        "goalText": "Goal: $25,000",
+        "button": "SUPPORT THIS PROGRAM"
+      },
+      {
+        "badge": "ECONOMIC EMPOWERMENT",
+        "number": "2.",
+        "title": "Entrepreneurship & Economic Autonomy",
+        "description": "Hands-on vocational workshops, seed tools, and financial mentorship that empower breadwinners to build sustainable livelihoods and overcome poverty.",
+        "progressText": "70% Cohorts Funded",
+        "goalText": "Goal: $18,000",
+        "button": "SUPPORT THIS PROGRAM"
+      },
+      {
+        "badge": "EMOTIONAL WELLNESS",
+        "number": "3.",
+        "title": "Mental Health & Resilience",
+        "description": "Active listening spaces, peer resilience circles, and specialized psychological guidance for families navigating trauma, grief, and hardship.",
+        "progressText": "60% Sessions Covered",
+        "goalText": "Goal: $15,000",
+        "button": "SUPPORT THIS PROGRAM"
+      },
+      {
+        "badge": "EMERGENCY RELIEF",
+        "number": "4.",
+        "title": "Emergency & Disaster Response",
+        "description": "Immediate humanitarian aid during climate crises, wildfires, and floods across California: clean water, shelter, emergency supplies, and community rebuilding.",
+        "progressText": "90% Active Response Fund",
+        "goalText": "Goal: $30,000",
+        "button": "SUPPORT THIS PROGRAM"
+      },
+      {
+        "badge": "CHILDHOOD & HOPE",
+        "number": "5.",
+        "title": "Joy & Holiday Outreach",
+        "description": "Holiday cheer campaigns for children in temporary shelters and under-resourced neighborhoods: toys, winter essentials, backpacks, and family holiday banquets.",
+        "progressText": "75% Holiday Goals Met",
+        "goalText": "Goal: $12,000",
+        "button": "SUPPORT THIS PROGRAM"
+      }
+    ],
+    "proposal": {
+      "title": "Would you like to propose a local initiative?",
+      "description": "We work hand-in-hand with neighborhood leaders and grassroots centers. Your voice and hands can plant the seed for our next California outreach.",
+      "button": "Propose a Collaboration"
+    }
+  },
+  "SembrarEsperanza": {
+    "quote": "\"Sowing hope, watering with faith, harvesting miracles.\"",
+    "description": "God uses our hands to plant seeds that transform lives. A humble gesture of love today blossoms into a lush forest tomorrow.",
+    "volunteerButton": "JOIN AS A VOLUNTEER",
+    "donorButton": "BECOME A MONTHLY DONOR"
+  },
+  "ValoresInstitucionales": {
+    "subtitle": "OUR CORE PILLARS",
+    "titlePart1": "INSTITUTIONAL",
+    "titleHighlight": "VALUES",
+    "description": "The uncompromised principles that guide every donation, volunteer effort, and community project we lead.",
+    "values": [
+      {
+        "icon": "shield",
+        "title": "Dignity",
+        "description": "We believe that every person has a unique value. Our mission is based on unconditional respect, humane treatment, and real opportunities for everyone to thrive."
+      },
+      {
+        "icon": "heart",
+        "title": "Compassion",
+        "description": "We serve with heartfelt empathy, selfless love, and sensitivity, embracing our community's challenges as our own."
+      },
+      {
+        "icon": "check-shield",
+        "title": "Transparency",
+        "description": "We manage every resource with total honesty and transparency, ensuring 100% of community contributions fulfill their mission."
+      },
+      {
+        "icon": "hand-heart",
+        "title": "Service",
+        "description": "We dedicate our time, hands, and talents in a selfless commitment to uplifting the most vulnerable with humility and joy."
+      },
+      {
+        "icon": "sprout",
+        "title": "Hope",
+        "description": "An unwavering conviction that a restorative transformation is possible, turning adversity into triumph and renewal."
+      },
+      {
+        "icon": "users",
+        "title": "Unity",
+        "description": "Collaborative brotherhood uniting donors, volunteers, community advocates, and families into one supportive network."
+      }
+    ]
+  },
+  "PuedesAyudar": {
+    "subtitle": "COMMUNITY ENGAGEMENT",
+    "titlePart1": "HOW CAN YOU",
+    "titleHighlight": "HELP TODAY?",
+    "description": "No gesture is too small when heartfelt. Choose how you would like to sow hope alongside us:",
+    "ways": [
+      {
+        "icon": "box",
+        "title": "1. In-Kind Giving",
+        "description": "Non-perishable food, quality clothing and shoes, infant supplies, and unopened hygiene products."
+      },
+      {
+        "icon": "dollar",
+        "title": "2. Secure Financial Support",
+        "description": "Tax-deductible gifts funding our education programs, disaster response, and immediate relief."
+      },
+      {
+        "icon": "user-plus",
+        "title": "3. Active Volunteering",
+        "description": "Join our weekend packing days, distribution drives, community workshops, and holiday events."
+      },
+      {
+        "icon": "building",
+        "title": "4. Corporate & Institutional Partnerships",
+        "description": "Sponsorships and matching gifts from businesses, foundations, and faith groups."
+      }
+    ],
+    "form": {
+      "title": "Sow a Seed",
+      "subtitle": "Direct donation and volunteer pledge",
+      "selectAmount": "SELECT AN AMOUNT (USD)",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "e.g. Ana Morales",
+      "email": "Email Address",
+      "emailPlaceholder": "ana@example.com",
+      "participation": "How would you like to participate?",
+      "options": {
+        "financial": "Make a financial donation",
+        "inKind": "Donate in-kind supplies",
+        "volunteer": "Register as a volunteer",
+        "corporate": "Corporate partnership"
+      },
+      "comments": "Comments / Message (Optional)",
+      "commentsPlaceholder": "Write your message or inquiry...",
+      "submitButton": "Confirm & Sow a Seed",
+      "disclaimer": "Registered 501(c)(3) nonprofit. Secure and encrypted processing."
+    }
+  },
+  "InspiracionDiaria": {
+    "subtitle": "DAILY INSPIRATION",
+    "quote": "\"Hope begins with a seed — Where love is planted, hope grows and transforms generations.\"",
+    "author": "PLANTING SEEDS OF HOPE COMMUNITY"
+  },
+  "Footer": {
+    "brandDescription": "A charitable organization committed to the dignity, advancement, and restoration of vulnerable communities and families across California and beyond.",
+    "navigationTitle": "NAVIGATION",
+    "navLinks": {
+      "home": "Home",
+      "aboutUs": "About Us",
+      "missionVision": "Mission & Vision",
+      "whatWeDo": "What We Do",
+      "ourValues": "Our Values",
+      "howToHelp": "How to Help"
+    },
+    "contactTitle": "DIRECT CONTACT",
+    "contactLocation": "California, United States",
+    "contactHours": "Mon - Sat: 8:00 AM - 6:00 PM PST",
+    "newsletterTitle": "NEWSLETTER",
+    "newsletterDescription": "Stay updated on impact stories, upcoming distributions, and community reports.",
+    "placeholderEmail": "Your email address",
+    "subscribeButton": "Subscribe",
+    "copyright": "© 2026 Planting Seeds of Hope. All rights reserved.",
+    "legalLinks": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "transparency": "Financial Transparency"
+    }
+  }
+}
